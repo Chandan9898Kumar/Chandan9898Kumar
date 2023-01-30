@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandan9898kumar" alt="chandan9898kumar" /></a> </p>
 
-- 📫 How to reach me **www.linkedin.com/in/chandan-kumar-4057b4193**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
