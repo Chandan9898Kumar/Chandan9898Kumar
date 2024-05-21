@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer (Front-End)
 -----------------------------
 
-Overall 2.5+ years of experience specializing in the Front‑End .Interested in devising a best problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises. Adept at writing, testing & debugging code.
+Overall 3+ years of experience specializing in the Front‑End .Interested in devising a best problem‑solving method for challenging tasks, and learning new technologies and tools if the need arises. Adept at writing, testing & debugging code.
 
 * 🌍  I'm based in India
 * 🤝  I'm open to collaborating on projects which requires full-stack
